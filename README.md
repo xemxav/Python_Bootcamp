@@ -6,7 +6,7 @@ This week was a good refreshment for my pyhon skills aquired during my internshi
 
 ## Main Take away for each day (subject in link):
 * [Day 00](./Day_00/day00.pdf) : Basic notions of Python
-* [Day 01](./Day_00/day01.pdf) : Object Oriented Programming
-* [Day 02](./Day_00/day02.pdf) : Decorators, multiprocessing, lambda, build package, etc ...
-* [Day 03](./Day_00/day03.pdf) : Numpy
-* [Day 04](./Day_00/day04.pdf) : Panda
+* [Day 01](./Day_01/day01.pdf) : Object Oriented Programming
+* [Day 02](./Day_02/day02.pdf) : Decorators, multiprocessing, lambda, build package, etc ...
+* [Day 03](./Day_03/day03.pdf) : Numpy
+* [Day 04](./Day_04/day04.pdf) : Panda
